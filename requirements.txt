@@ -1,0 +1,5 @@
+streamlit>=1.52
+qrcode[pil]
+pandas
+sqlalchemy>=2.0
+psycopg2-binary
